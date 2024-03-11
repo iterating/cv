@@ -1,0 +1,135 @@
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Jonathan Young 
+    tagline: IT Professional with 12 year experience in Linux systems
+    avatar: Profile(100x100).jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: jyoung0696@gmail.com
+    phone: 626 626 0656
+    timezone: Pacific Time
+    citizenship: US
+    website: iterating.github.io/cv-it #do not add http://
+    linkedin: 
+    xing: 
+    github: Iterating
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: 
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    # pdf: 
+
+    interests:
+      title: Interests
+      info:
+        - item: Photography
+          link: 
+        - item: Fitness
+          link:
+
+        - item: Cooking
+          link:
+
+# career-profile:
+#   title: Career Profile
+#   summary: |
+      
+education:
+    title: Education
+    info:
+      - degree: Choate Rosemary Hall
+
+      - degree: Tufts University
+        university: B.Sc., Biology and Chemistry
+        time: 2007 - 2010
+        details: |
+           - Magna cum laude with Thesis Honors
+           - Capstone project in 3D design
+           - American Mathematics Competition finalist
+              -  Competency in Combinatorics
+      - degree: UMass Chan Medical School
+        university: Medicine
+        time: 2015 - 2019
+        details: |
+          Winner, American College of Physicians National Abstract Competition
+
+experiences:
+    title: Experiences
+    info:
+      - role: Freelance Website Developer
+        time: 2020 - Present
+        company: Young Design
+        details: |
+          - Prototype, design, and deploy beautiful, responsive sites to meet clients' business needs using a Lean design process
+          - Developing cross-browser compatible websites using Drupal and Wordpress
+          - Create and manage testing environments using Docker 
+          - Design UI, illustration, typography, and branding for projects
+          - Improving client siteranks through SEO and descriptive copywriting
+          - Creating high quality 3D models and renders of client products with Blender and 3D Max
+          - Improving existing client websites for mobile devices
+          - Maintaining website functionality and uptime, and cloud services
+
+      - role: UX Design, Software testing and quality assurance
+        time: 2020 - 2023
+        company: Dendron, Seattle WA
+        details: |
+          Dendron is a next generation full featured notetaking system built in Typescript  
+          - Design intuitive UIs mockups for engineering team
+          - Made improvements to app based off collected user feedback and research
+          - Worked closely with engineering team to ensure that bugs were caught and features were tested before going into production.  
+
+      - role: UX Developer
+        time: 2016 - 2018
+        company: VecnaCares, Boston MA
+        details: |
+          Worked with healthcare providers to translate clinical workflow into a seamless UI for electronic medical record collection. 
+          - Worked closely with engineering team to design and prototype UI for a seamless clinical user experience. 
+          - Usability testing,  collecting feedback on product from clinical end-users,
+     - Trained technological experienced clinical staff to use the software
+          - Administration and maintenance of Ubuntu and Debian laptops and tablets for clinical use
+          - Ensured packages, dependencies, and configurations were up to date using Virtualbox and Ansible. 
+- Made improvements to clinical infrastructure that increased uptime to close to 100%
+ 
+      - role: Technology administrator
+        time: 2012 - 2016
+        company: Tufts University Eliot-Pearson Children's School, Medford MA
+        details: |
+          - Responsible for computer and network security and user permission management
+          - Deployed and kept software up to date at computer lab  
+          - Implemented and enforced best practice security policies
+          - Maintained photography and videography equipment
+          - Provided support to staff and students on technology use and troubleshooting
+
+      - role: Researcher
+        time: 2010-2012
+        company: Massachusetts General Hospital Boston MA 
+        details: |
+          Investigated use of chemokine based local immunosuppression in islet transplantation, leading to successful publication. Presented reports of complex multidimensional quantitative data to principle investigator, informing direction of future development.
+          - Created 'Cellbot', automated cell counting program in Java and ImageJ, speeding data collection and lab efficiency. 
+          - Publication: [Alginate encapsulant incorporating CXCL12 supports long term allo and xenoislet transplantation without systemic immune suppression.](https://pubmed.ncbi.nlm.nih.gov/25693473/) **American Journal of Transplantation**, 2015, DOI 10.1111/ajt.13049
+
+skills:
+    title: Skills
+
+    toolset:
+      - name: Networking- Cisco, Ubiquity, OpenVPN, pfSense
+
+      - name: Virtualization- Virtualbox, VMWare, ESXi, KVM, Proxmox, Hypervisor, Docker 
+
+      - name: Data formatting, automation, Perl
+
+      - name: Linux/Apache/MySQL/PHP
+
+      - name: Cloud- AWS, Azure
+
+      - name: Red Hat System Administration
+              170-077-016
+
+footer: >
+    Designed by <a href="http://jonathanyoungdesign.wordpress.com" target="_blank" rel="nofollow">J Young Design</a>
