@@ -91,10 +91,10 @@ experiences:
           Worked with healthcare providers to translate clinical workflow into a seamless UI for electronic medical record collection. 
           - Worked closely with engineering team to design and prototype UI for a seamless clinical user experience. 
           - Usability testing,  collecting feedback on product from clinical end-users,
-     - Trained technological experienced clinical staff to use the software
+          - Trained technological experienced clinical staff to use the software
           - Administration and maintenance of Ubuntu and Debian laptops and tablets for clinical use
           - Ensured packages, dependencies, and configurations were up to date using Virtualbox and Ansible. 
-- Made improvements to clinical infrastructure that increased uptime to close to 100%
+          - Made improvements to clinical infrastructure that increased uptime to close to 100%
  
       - role: Technology administrator
         time: 2012 - 2016
